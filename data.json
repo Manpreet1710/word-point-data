@@ -1,8 +1,12 @@
 [
     {
-        "word": "python"
+        "word": "python",
+        "x": 6,
+        "gameName": "scrabble"
     },
     {
-        "word": "payments"
+        "word": "car",
+        "x": 3,
+        "gameName": "scrabble"
     }
 ]
